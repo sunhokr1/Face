@@ -1,0 +1,4 @@
+streamlit>=1.67,<2
+openai>=3.48,<4
+python-dotenv>=1.2,<2
+Pillow>=13,<14
